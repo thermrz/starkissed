@@ -229,7 +229,7 @@ input[type="submit"]:hover, button:hover, .btn:hover {
 	position: absolute;
 	opacity: 0;
 	filter:alpha(opacity=0);
-	background: transparent url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/opacity80.png) left top repeat;
+	background: transparent url(img_dark/opacity80.png) left top repeat;
 	display: block;
 	height: 100%;
 	width: 100%;
@@ -258,9 +258,9 @@ input[type="submit"]:hover, button:hover, .btn:hover {
 	left:0;
 	background: transparent center center no-repeat;
 }
-.thumb-icon .plus.icon:after { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/thumb-icon-plus.png); }
-.thumb-icon .soundcloud.icon:after { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/thumb-icon-soundcloud.png); }
-.thumb-icon .view.icon:after { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/thumb-icon-view.png); }
+.thumb-icon .plus.icon:after { background-image: url(img_dark/thumb-icon-plus.png); }
+.thumb-icon .soundcloud.icon:after { background-image: url(img_dark/thumb-icon-soundcloud.png); }
+.thumb-icon .view.icon:after { background-image: url(img_dark/thumb-icon-view.png); }
 
 /* Badgets */
 .badge {
@@ -273,8 +273,8 @@ input[type="submit"]:hover, button:hover, .btn:hover {
 	height: 51px;
 	z-index: 100;
 }
-.badge.new { background-image:  url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/badge-new.png); }
-.badge.free { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/badge-free.png); }
+.badge.new { background-image:  url(img_dark/badge-new.png); }
+.badge.free { background-image: url(img_dark/badge-free.png); }
 
 /* Flexible video */
 .video {
@@ -329,11 +329,11 @@ img.size-3-4 { width: 75%; height: auto; }
 	min-width: 60px;
 	margin-bottom: 40px;
 }
-.heading-icon.deck { background-image:  url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-deck.png); }
-.heading-icon.contact { background-image:  url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-contact.png); }
-.heading-icon.podcast { background-image:  url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-podcast.png); }
-.heading-icon.video { background-image:  url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-video.png); }
-.heading-icon.bio { background-image:  url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-bio.png); }
+.heading-icon.deck { background-image:  url(img_dark/icon-deck.png); }
+.heading-icon.contact { background-image:  url(img_dark/icon-contact.png); }
+.heading-icon.podcast { background-image:  url(img_dark/icon-podcast.png); }
+.heading-icon.video { background-image:  url(img_dark/icon-video.png); }
+.heading-icon.bio { background-image:  url(img_dark/icon-bio.png); }
 
 /* Line heading */
 .line-heading {
@@ -912,7 +912,7 @@ ul.nav {
 	/* Responsive Nav */
 	#main-nav .responsive-nav, #top-wrap .responsive-nav {
 		-webkit-appearance: none; /* Fix for Mobile Safari */
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/responsive-nav.png);
+		background-image: url(img_dark/responsive-nav.png);
 		background-color: #111;
 		border: none;
 		background-position: center right;
@@ -966,11 +966,11 @@ ul.nav {
 		filter:alpha(opacity=100);
 	}
 	#single-nav .nav-prev {
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-prev-single.png);
+			background-image: url(img_dark/nav-prev-single.png);
 			float: left;
 	}
 	#single-nav .nav-next {
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-next-single.png);
+			background-image: url(img_dark/nav-next-single.png);
 			float: right;
 	}
 	#single-nav.center { margin: 0px auto 80px auto; }
@@ -982,7 +982,7 @@ ul.nav {
 #page-header {
 	border-top: 1px solid #292929;
 	border-bottom: 1px solid #000;
-	background: #222 url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/default-bg.png) center top no-repeat;
+	background: #222 url(img_dark/default-bg.png) center top no-repeat;
 	padding-top:40px;
 	width:100%;
 }
@@ -1177,7 +1177,7 @@ ul.nav {
 	/* Back to Top
 	 ---------------------------------------------------------------------- */
 	#scroll-button, .touch-device #scroll-button:hover {
-		background: transparent url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/scroll-button.png) center center no-repeat;
+		background: transparent url(img_dark/scroll-button.png) center center no-repeat;
 		top: 40px;
 		display: block;
 		opacity: 0.8;
@@ -1220,7 +1220,7 @@ ul.nav {
 		.tip-top { 
 			width:36px; 
 			height:37px;  
-			background:url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/tip-top.png) left top no-repeat; 
+			background:url(img_dark/tip-top.png) left top no-repeat; 
 			position:absolute; 
 			top:-3px; 
 			right:-3px;
@@ -1377,12 +1377,12 @@ ul.nav {
 		a.nivo-prevNav {
 			left:0px;
 			background-position: left center;
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-prev.png);
+			background-image: url(img_dark/nav-prev.png);
 		}
 		a.nivo-nextNav {
 			right:0px;
 			background-position: right center;
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-next.png);
+			background-image: url(img_dark/nav-next.png);
 		}
 		a:hover.nivo-prevNav {
 			background-position: right center;
@@ -1409,12 +1409,12 @@ ul.nav {
 		.fullslider a.nivo-prevNav { 
 			left: 50%; 
 			margin-left:-470px;
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-prev-full.png);
+			background-image: url(img_dark/nav-prev-full.png);
 		}
 		.fullslider a.nivo-nextNav { 
 			right: 50%; 
 			margin-right:-470px;
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-next-full.png);
+			background-image: url(img_dark/nav-next-full.png);
 		}
 
   
@@ -1555,7 +1555,7 @@ ul.nav {
 	}
 	.cat:before {
 		content: '';
-		background: transparent url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-headphones.png) left 4px no-repeat;
+		background: transparent url(img_dark/icon-headphones.png) left 4px no-repeat;
 		display: inline-block;
 		width: 15px;
 		height: 15px;
@@ -1723,7 +1723,7 @@ ul.nav {
 #upcoming-events {
 	border-top: 1px solid #292929;
 	border-bottom: 1px solid #292929;
-	background: #222 url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/map.png) center 20px no-repeat;
+	background: #222 url(img_dark/map.png) center 20px no-repeat;
 	margin-bottom: -80px;
 	margin-top: 80px;
 }
@@ -1743,7 +1743,7 @@ ul.events-list {
 		margin: 0;
 		position: relative;
 		margin-bottom: 1px;
-		background: transparent url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/opacity50.png) left top repeat;
+		background: transparent url(img_dark/opacity50.png) left top repeat;
 		min-height: 64px;
 		width: 100%;
 	}
@@ -1811,7 +1811,7 @@ ul.events-list {
 	height: 100%;
 	width: 36px;
 	background-color: #fa4c29;
-	background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/plus-button.png);
+	background-image: url(img_dark/plus-button.png);
 	background-position: right center;
 	background-repeat: no-repeat;
 	-webkit-transition: all .4s ease;
@@ -2545,7 +2545,7 @@ ul.entry-meta  {
 	display: block;
 	padding: .5em .8em;
 	outline: none;
-	background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/player-play-btn2.png);
+	background-image: url(img_dark/player-play-btn2.png);
 	background-repeat: no-repeat;
 	background-position: 8px 6px;
 	text-indent: 28px;
@@ -2623,7 +2623,7 @@ ul.entry-meta  {
 	top: -1px;
 	width: 18px;
 	height: 15px;
-	background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/player-volume.png);
+	background-image: url(img_dark/player-volume.png);
 	background-repeat: no-repeat;
 	background-position: left top;
 }
@@ -2659,7 +2659,7 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 
 .playable.playing {
 	color: #fa4c29;
-	background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/player-pause-btn2.png);
+	background-image: url(img_dark/player-pause-btn2.png);
 }
 .playable.paused {
 	color: #666;
@@ -2769,10 +2769,10 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 		-webkit-border-radius: 0px;
 		border-radius: 0px;
 		background-color: transparent;
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/player-play-btn2.png);
+		background-image: url(img_dark/player-play-btn2.png);
 	}
 	.playlist .playable.playing {
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/player-pause-btn2.png);
+		background-image: url(img_dark/player-pause-btn2.png);
 	}
 	.playlist .playable .ui.progress .loading {
 		background-color: #222;
@@ -2852,16 +2852,16 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 		}
 		#fp-nav a:hover { opacity: 1; filter:alpha(opacity=100); }
 		#fp-nav a.play {
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/fp-play-btn.png);
+			background-image: url(img_dark/fp-play-btn.png);
 			background-position: left top;
 		}
 		#fp-nav a.play.pause {
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/fp-play-btn.png);
+			background-image: url(img_dark/fp-play-btn.png);
 			background-position: right top;
 		}
-		#fp-nav a.next { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/fp-next-btn.png); }
-		#fp-nav a.prev { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/fp-prev-btn.png); }
-		#fp-nav a.details { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/fp-details-btn.png); }
+		#fp-nav a.next { background-image: url(img_dark/fp-next-btn.png); }
+		#fp-nav a.prev { background-image: url(img_dark/fp-prev-btn.png); }
+		#fp-nav a.details { background-image: url(img_dark/fp-details-btn.png); }
 
 	/* Player container */
 	#full-player {
@@ -2963,9 +2963,9 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 
 		.contact li:first-child { margin-left: 0; }
 
-		.contact .address { background: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-address.png) no-repeat 0 0; }
-		.contact .phone { background: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-phone.png) no-repeat 4px 2px; }
-		.contact .email { background: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-email.png) no-repeat 0 4px; }
+		.contact .address { background: url(img_dark/icon-address.png) no-repeat 0 0; }
+		.contact .phone { background: url(img_dark/icon-phone.png) no-repeat 4px 2px; }
+		.contact .email { background: url(img_dark/icon-email.png) no-repeat 0 4px; }
 
 
 	/* Social icons
@@ -2974,7 +2974,7 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 	 .social-icons { overflow: hidden; float: right; }
 	 	.social-icons:before {
 	 		content: '';
-			background: transparent url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/share-icon.png) left 4px no-repeat;
+			background: transparent url(img_dark/share-icon.png) left 4px no-repeat;
 			width: 30px;
 			float: left;
 			height: 28px;
@@ -2998,17 +2998,17 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 			background-color: #fa4c29;
 			background-position: left bottom;
 		}
-		.social-icon.twitter { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-twitter.png); }
-		.social-icon.facebook { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-facebook.png); }
-		.social-icon.googleplus { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-googleplus.png); }
-		.social-icon.youtube { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-youtube.png); }
-		.social-icon.vimeo { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-vimeo.png); }
-		.social-icon.soundcloud { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-soundcloud.png); }
-		.social-icon.myspace { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-myspace.png); }
-		.social-icon.digg { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-digg.png); }
-		.social-icon.skype { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-skype.png); }
-		.social-icon.lastfm { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-lastfm.png); }
-		.social-icon.rss { background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/icon-rss.png); }
+		.social-icon.twitter { background-image: url(img_dark/icon-twitter.png); }
+		.social-icon.facebook { background-image: url(img_dark/icon-facebook.png); }
+		.social-icon.googleplus { background-image: url(img_dark/icon-googleplus.png); }
+		.social-icon.youtube { background-image: url(img_dark/icon-youtube.png); }
+		.social-icon.vimeo { background-image: url(img_dark/icon-vimeo.png); }
+		.social-icon.soundcloud { background-image: url(img_dark/icon-soundcloud.png); }
+		.social-icon.myspace { background-image: url(img_dark/icon-myspace.png); }
+		.social-icon.digg { background-image: url(img_dark/icon-digg.png); }
+		.social-icon.skype { background-image: url(img_dark/icon-skype.png); }
+		.social-icon.lastfm { background-image: url(img_dark/icon-lastfm.png); }
+		.social-icon.rss { background-image: url(img_dark/icon-rss.png); }
 
 
 /* Footer Widgets
@@ -3057,7 +3057,7 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 			height: 66px;
 			width: 36px;
 			background-color: #fa4c29;
-			background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/twitter-button.png);
+			background-image: url(img_dark/twitter-button.png);
 			background-position: right center;
 			background-repeat: no-repeat;
 			-webkit-transition: all .4s ease;
@@ -3187,10 +3187,10 @@ span.playable:hover, span.playable:hover .track-title { color: #aaa; }
 		filter:alpha(opacity=100);
 	}
 	.wp-pagenavi .nav-prev {
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-prev-single.png);
+		background-image: url(img_dark/nav-prev-single.png);
 	}
 	.wp-pagenavi .nav-next {
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-next-single.png);
+		background-image: url(img_dark/nav-next-single.png);
 	}
 
 	.wp-pagenavi .inactive, .wp-pagenavi .inactive:hover {
@@ -3472,10 +3472,10 @@ nav.woocommerce-pagination ul {
 		filter:alpha(opacity=100);
 	}
 	nav.woocommerce-pagination ul li a.prev {
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-prev-single.png);
+		background-image: url(img_dark/nav-prev-single.png);
 	}
 	nav.woocommerce-pagination ul li a.next {
-		background-image: url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/styles/img_dark/nav-next-single.png);
+		background-image: url(img_dark/nav-next-single.png);
 	}
 
 

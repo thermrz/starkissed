@@ -614,7 +614,7 @@
 
 	/* Events list */
 	#upcoming-events {
-		background: #222 url(https://thermrz.github.io/starkissed/wp-content/themes/epron%201.6.1/img/map.png) right 60px no-repeat;
+		background: #222 url(../img/map.png) right 60px no-repeat;
 	}
 	.events-list .date { font-size: 24px; }
 	.events-list .title {
