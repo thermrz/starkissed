@@ -9,35 +9,35 @@
 
 <channel>
 	<title>Starkissed</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://thermrz.github.io/starkissed/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thermrz.github.io/starkissed</link>
 	<description></description>
-	<lastBuildDate>Wed, 23 Aug 2017 06:15:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Aug 2017 07:22:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2017/08/cropped-SK_LOGO_DRAFT-32x32.jpg</url>
+	<url>https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/cropped-SK_LOGO_DRAFT-32x32.jpg</url>
 	<title>Starkissed</title>
-	<link></link>
+	<link>https://thermrz.github.io/starkissed</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title></title>
-		<link>/blog/2017/08/22/fuck-it/</link>
-		<comments>/blog/2017/08/22/fuck-it/#respond</comments>
+		<link>https://thermrz.github.io/starkissed/blog/2017/08/22/fuck-it/</link>
+		<comments>https://thermrz.github.io/starkissed/blog/2017/08/22/fuck-it/#respond</comments>
 		<pubDate>Tue, 22 Aug 2017 10:16:55 +0000</pubDate>
 		<dc:creator><![CDATA[thermrz]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=116</guid>
+		<guid isPermaLink="false">https://thermrz.github.io/starkissed/?p=116</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2017/08/SK_LOGO_DRAFT.jpg"><img class="size-large wp-image-54 aligncenter" src="/wp-content/uploads/2017/08/SK_LOGO_DRAFT-696x1024.jpg" alt="" width="696" height="1024" srcset="/wp-content/uploads/2017/08/SK_LOGO_DRAFT-696x1024.jpg 696w, /wp-content/uploads/2017/08/SK_LOGO_DRAFT-380x559.jpg 380w, /wp-content/uploads/2017/08/SK_LOGO_DRAFT-768x1129.jpg 768w, /wp-content/uploads/2017/08/SK_LOGO_DRAFT.jpg 1275w" sizes="(max-width: 696px) 100vw, 696px" /></a></p>
+				<content:encoded><![CDATA[<p><a href="https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/SK_LOGO_DRAFT.jpg"><img class="size-large wp-image-54 aligncenter" src="https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/SK_LOGO_DRAFT-696x1024.jpg" alt="" width="696" height="1024" srcset="https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/SK_LOGO_DRAFT-696x1024.jpg 696w, https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/SK_LOGO_DRAFT-380x559.jpg 380w, https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/SK_LOGO_DRAFT-768x1129.jpg 768w, https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/SK_LOGO_DRAFT.jpg 1275w" sizes="(max-width: 696px) 100vw, 696px" /></a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/blog/2017/08/22/fuck-it/feed/</wfw:commentRss>
+			<wfw:commentRss>https://thermrz.github.io/starkissed/blog/2017/08/22/fuck-it/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

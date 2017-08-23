@@ -9,30 +9,30 @@
 
 <channel>
 	<title>RMRZ &#8211; Starkissed</title>
-	<atom:link href="/blog/releases-artist/rmrz/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://thermrz.github.io/starkissed/blog/releases-artist/rmrz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thermrz.github.io/starkissed</link>
 	<description></description>
-	<lastBuildDate>Wed, 23 Aug 2017 06:15:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Aug 2017 07:22:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2017/08/cropped-SK_LOGO_DRAFT-32x32.jpg</url>
+	<url>https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/cropped-SK_LOGO_DRAFT-32x32.jpg</url>
 	<title>RMRZ &#8211; Starkissed</title>
-	<link></link>
+	<link>https://thermrz.github.io/starkissed</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>RMRZ &#8211; &#8216;Caine in My Nose</title>
-		<link>/blog/releases/rmrz/</link>
-		<comments>/blog/releases/rmrz/#respond</comments>
+		<link>https://thermrz.github.io/starkissed/blog/releases/rmrz/</link>
+		<comments>https://thermrz.github.io/starkissed/blog/releases/rmrz/#respond</comments>
 		<pubDate>Tue, 22 Aug 2017 08:55:51 +0000</pubDate>
 		<dc:creator><![CDATA[thermrz]]></dc:creator>
 		
-		<guid isPermaLink="false">/?post_type=wp_releases&#038;p=57</guid>
+		<guid isPermaLink="false">https://thermrz.github.io/starkissed/?post_type=wp_releases&#038;p=57</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div class="col-1-3">
 <h2 class="heading-icon bio ">Release.<br />
@@ -40,18 +40,18 @@
 <ul class="details none">
 <li><span>Date</span><div>08/22/2017</div></li>
 <li><span>Catalog</span><div>SK0001</div></li>
-<li><span>Genres</span><div><a href="/blog/releases-genre/progressive-house/" rel="tag">Progressive House</a></div></li>
-<li><span>Artists</span><div><a href="/blog/releases-artist/rmrz/" rel="tag">RMRZ</a></div></li>
+<li><span>Genres</span><div><a href="https://thermrz.github.io/starkissed/blog/releases-genre/progressive-house/" rel="tag">Progressive House</a></div></li>
+<li><span>Artists</span><div><a href="https://thermrz.github.io/starkissed/blog/releases-artist/rmrz/" rel="tag">RMRZ</a></div></li>
 </ul>
-<img src="/wp-content/uploads/2017/08/RMRZ-COCAINEMAX.jpg" alt="RMRZ - 'Caine in My Nose" class="size-1-2 cover-image">
-<div id="single-nav"><span class="nav-prev"></span><a href="/blog/releases/superstar-juicy-jay-sex-shooter/" class="nav-next" title="Juicy Jay &#8211; Sex Shooter"></a></div>
+<img src="https://thermrz.github.io/starkissed/wp-content/uploads/2017/08/RMRZ-COCAINEMAX.jpg" alt="RMRZ - 'Caine in My Nose" class="size-1-2 cover-image">
+<div id="single-nav"><span class="nav-prev"></span><a href="https://thermrz.github.io/starkissed/blog/releases/superstar-juicy-jay-sex-shooter/" class="nav-next" title="Juicy Jay &#8211; Sex Shooter"></a></div>
 </div>
 <div class="col-2-3 last">
 <h3>Description.</h3>
 <p>Content here&#8230;</p>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/blog/releases/rmrz/feed/</wfw:commentRss>
+			<wfw:commentRss>https://thermrz.github.io/starkissed/blog/releases/rmrz/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

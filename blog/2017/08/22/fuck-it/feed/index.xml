@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: </title>
-	<atom:link href="/blog/2017/08/22/fuck-it/feed/" rel="self" type="application/rss+xml" />
-	<link>/blog/2017/08/22/fuck-it/</link>
+	<atom:link href="https://thermrz.github.io/starkissed/blog/2017/08/22/fuck-it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thermrz.github.io/starkissed/blog/2017/08/22/fuck-it/</link>
 	<description></description>
-	<lastBuildDate>Wed, 23 Aug 2017 07:00:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Aug 2017 07:32:50 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
